@@ -5,7 +5,7 @@
 This project is currently under development and is not yet ready for production use.  Features and implementation details are subject to change.
 
 
-This project aims to implement a basic system for managing consortium quotas, leveraging a modern architecture with microfrontends, a GraphQL layer, and a robust REST API backend.
+This project aims to implement a basic system for managing consortium quotas, leveraging a modern architecture with microfrontends, a GraphQL layer, and a REST API backend.
 
 ## Overview
 
