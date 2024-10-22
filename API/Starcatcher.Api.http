@@ -1,0 +1,6 @@
+@Starcatcher.Api_HostAddress = http://localhost:5153
+
+GET {{Starcatcher.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
